@@ -1,4 +1,7 @@
 
+![COXIT - Empowering Innovation through Software Solutions](https://github.com/COXIT-CO/.github/blob/main/profile/coxit_banner.png)
+
+
 ## Hi there! We’re COXIT
 
 Welcome to our GitHub page! We are a software development service company that specializes in team extension and custom software development. Our mission is to provide high-quality solutions to our clients, enabling them to achieve their business goals.
